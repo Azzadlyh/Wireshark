@@ -18,19 +18,22 @@ note : Contoh IP ADDRESS user lain
 2. Masukkan IP ADDRESS user lain pada Wireshark.  
 ![image](https://github.com/Azzadlyh/Wireshark/assets/126213404/e2dd55b2-e4a9-468f-bd0d-25082a2a8e69)  
 
-Tunggu sekitar 5-10 menit IP address yg digunakan untuk melakukan aktivitas dan akan terkumpul jumlah packetnya, kemudian buka bagian statistic.  
-![image](https://github.com/Azzadlyh/Wireshark/assets/126213404/6df1fab7-00d8-43e0-bf1a-a349828a4ec3)  
+  Tunggu sekitar 5-10 menit IP address yg digunakan untuk melakukan aktivitas dan     akan terkumpul jumlah packetnya, kemudian buka bagian statistic.  
+  ![image](https://github.com/Azzadlyh/Wireshark/assets/126213404/6df1fab7-00d8-43e0-bf1a-a349828a4ec3)  
 
-![image](https://github.com/Azzadlyh/PRAKTIKUM-JARINGAN-KOMPUTER/assets/126213404/f26152cd-759b-48c5-9948-850ded2f330a)  
+  ![image](https://github.com/Azzadlyh/PRAKTIKUM-JARINGAN-KOMPUTER/assets/126213404/f26152cd-759b-48c5-9948-850ded2f330a)  
 
 3. Buka bagian details Statistics  
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-JARINGAN-KOMPUTER/assets/126213404/3de0a966-db6f-456e-836c-7c6e7822f3aa)  
 
-![image](https://github.com/Azzadlyh/PRAKTIKUM-JARINGAN-KOMPUTER/assets/126213404/531ddadf-0415-45a4-ace6-a90ee961791f)  
-
+4. Kemudian lakukan perhitungan untuk menghitung hasil bytes (Throughtput)  
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-JARINGAN-KOMPUTER/assets/126213404/597833a9-95ed-4e1b-bcc8-120c8f8d2691)  
 
-![image](https://github.com/Azzadlyh/PRAKTIKUM-JARINGAN-KOMPUTER/assets/126213404/53abdb2b-7d1b-4d12-8932-1e90cd93b51a)  
+5. Pehitungan Packet Loss  
+![image](https://github.com/Azzadlyh/PRAKTIKUM-JARINGAN-KOMPUTER/assets/126213404/53abdb2b-7d1b-4d12-8932-1e90cd93b51a)
+
+6. Klik `File` - `Export Packet Dissections` - `As CSV`
+![image](https://github.com/Azzadlyh/PRAKTIKUM-JARINGAN-KOMPUTER/assets/126213404/531ddadf-0415-45a4-ace6-a90ee961791f)  
 
 ![image](https://github.com/Azzadlyh/PRAKTIKUM-JARINGAN-KOMPUTER/assets/126213404/91ce4bb5-0797-46ab-ac6e-7f48a33804e8)  
 
